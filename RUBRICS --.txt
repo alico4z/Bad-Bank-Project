@@ -1,0 +1,13 @@
+1. Create an account 
+2. Deposit Money
+3. Withdraw Money
+4. Display all data
+5. Demostrate input validation
+6. Create form component 
+7. Challenges you faced while creating this and how you mitigated them or overcame them.
+
+Dev files and build files..
+
+Record a short video to showcase the functionalities above in your unbuild code base and build code base.
+
+Please feel free to use CREATE-REACT-APP.
